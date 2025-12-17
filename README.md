@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img width="196" height="290" alt="image" src="https://github.com/user-attachments/assets/7d30ad50-8fee-47b1-886c-524d19f27652" />
+
 
 <!--
 **ZSzabo-85/ZSzabo-85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
