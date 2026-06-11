@@ -2,15 +2,24 @@
 
 Recent Cybersecurity and Networks graduate from Glasgow Caledonian University seeking to start my professional career in the IT sector, with a particular interest in cybersecurity or networking roles. I have built a strong foundation through academic study and hands-on experience using home labs and platforms such as TryHackMe and LetsDefend, gaining experience with a range of security tools and scenarios.
 
-## Skills
+## Projects
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | [Splunk Lab](https://github.com/ZSzabo-85/Splunk-Lab)|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Snort Lab</a>|
 
+## Skills
 
-Tools
+- Alert Triage & Incident Investigation
+- Penetration Testing
+- Vulnerability Management
+- Network Security (Routing / Switching)
+- Cybersecurity Frameworks: ISO 27001, NIST
+- Active Directory
+- Cybersecurity Best Practices
+
+## Tools
 
 ### Network
 <div>
