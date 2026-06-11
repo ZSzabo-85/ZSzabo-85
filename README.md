@@ -1,4 +1,4 @@
-## Hi, I am Zsolt
+# Hi, I am Zsolt
 
 Recent Cybersecurity and Networks graduate from Glasgow Caledonian University seeking to start my professional career in the IT sector, with a particular interest in cybersecurity or networking roles. I have built a strong foundation through academic study and hands-on experience using home labs and platforms such as TryHackMe and LetsDefend, gaining experience with a range of security tools and scenarios.
 
@@ -12,6 +12,7 @@ Recent Cybersecurity and Networks graduate from Glasgow Caledonian University se
 ## Skills
 
 - Alert Triage & Incident Investigation
+- SIEM Monitoring & Log Analysis
 - Penetration Testing
 - Vulnerability Management
 - Network Security (Routing / Switching)
