@@ -7,7 +7,7 @@ Recent Cybersecurity and Networks graduate from Glasgow Caledonian University se
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | [Splunk Lab](https://github.com/ZSzabo-85/Splunk-Lab)|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Snort Lab</a>|
+| Network Traffic Monitoring and Attack Detection | [Snort Lab](https://github.com/ZSzabo-85/Snort-Lab)|
 
 ## Skills
 
